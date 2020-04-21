@@ -218,14 +218,14 @@ text-align:center;
   display: block;
   position: absolute;
   margin: 0;
-  width: 350px;
+  width: 360px;
   height:80px;
   list-style: none;
 }
 
 .box-educacion__lista1{
     top: 35%;
-    left: 1%;
+    left: 2%;
   }
 
 .box-educacion__lista2{
@@ -234,7 +234,7 @@ text-align:center;
   }
 
   [class^="educacion-item"]{
-    width: 350px;
+    width: 380px;
     height: 20px;
     margin: 5px;
 }
