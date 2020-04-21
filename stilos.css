@@ -240,6 +240,7 @@ text-align:center;
 }
 
 .educacion-item__int{
+  width: 380px;
  color:blue;
 }
 .educacion-item__edu{
