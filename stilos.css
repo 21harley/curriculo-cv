@@ -218,7 +218,7 @@ text-align:center;
   display: block;
   position: absolute;
   margin: 0;
-  width: 380px;
+  width: 365px;
   height:80px;
   list-style: none;
 }
@@ -234,9 +234,9 @@ text-align:center;
   }
 
   [class^="educacion-item"]{
-    width: 380px;
+    width: 365px;
     height: 20px;
-    margin: 3px;
+    margin: 0px;
 }
 
 .educacion-item__int{
