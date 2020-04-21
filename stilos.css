@@ -225,12 +225,12 @@ text-align:center;
 
 .box-educacion__lista1{
     top: 35%;
-    left: 2%;
+    left: 0;
   }
 
 .box-educacion__lista2{
     top: 35%;
-    right: 2%;
+    right: 0;
   }
 
   [class^="educacion-item"]{
@@ -240,7 +240,6 @@ text-align:center;
 }
 
 .educacion-item__int{
-  width: 380px;
  color:blue;
 }
 .educacion-item__edu{
